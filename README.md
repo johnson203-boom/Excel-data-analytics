@@ -1,84 +1,64 @@
-# Bike Sales Analysis Using Microsoft Excel
+# Excel Data Analytics Projects
 
-## Project Overview
+Welcome to my Excel Data Analytics repository, a collection of projects demonstrating my skills in data cleaning, analysis, visualisation, reporting, and dashboard development using Microsoft Excel.
 
-This project explores customer demographics and bike purchasing behaviour using Microsoft Excel. The goal is to examine customer characteristics, identify patterns associated with bike purchases, and present useful insights through an interactive dashboard.
+## About This Repository
 
-This project was completed as a learning exercise inspired by Alex the Analyst's Excel tutorial, with the aim of developing my practical data cleaning, analysis, and visualisation skills.
+This repository documents my progress in data analytics through practical, project-based learning. Each project focuses on working with data, identifying meaningful insights, and presenting findings in a clear and organised format.
 
-## Project Objectives
+## Skills Demonstrated
 
-- Examine the relationship between customer demographics and bike purchases.
-- Compare the average income of customers who purchased bikes with those who did not.
-- Explore bike purchasing patterns across different age groups.
-- Investigate purchasing behaviour by customer commute distance.
-- Present findings in an interactive Excel dashboard.
+- Data cleaning and preparation
+- Data analysis and manipulation
+- Excel formulas and functions
+- Sorting, filtering, and data validation
+- PivotTables and PivotCharts
+- Data visualisation and chart creation
+- Interactive dashboard development
+- Reporting and insight generation
 
-## Dataset Description
+## Projects
 
-The dataset contains customer information, including:
+This repository will grow as I complete more Excel projects. Each project will have its own folder containing the relevant workbook, supporting files, and documentation where applicable.
 
-- Customer ID
-- Marital status and gender
-- Annual income and number of children
-- Education and occupation
-- Home ownership and number of cars
-- Commute distance and region
-- Age and bike purchase status
+| Project | Description | Tools |
+|---|---|---|
+| Project 1 | To be added | Microsoft Excel |
+| Project 2 | To be added | Microsoft Excel |
+| Project 3 | To be added | Microsoft Excel |
 
-**Data source:** [Alex the Analyst — Excel Tutorial Dataset](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
-
-## Tools and Techniques
+## Tools and Technologies
 
 - Microsoft Excel
-- Data cleaning and duplicate removal
-- Find and Replace
-- Excel formulas and age-group categorisation
-- PivotTables
-- Charts and data visualisation
-- Interactive dashboard slicers
+- PivotTables and PivotCharts
+- Excel formulas and functions
+- Charts and dashboards
 
-## Data Cleaning and Preparation
+## Repository Structure
 
-The dataset was reviewed and prepared for analysis. The process included:
+```text
+excel-data-analytics/
+├── README.md
+├── project-1/
+│   ├── dataset.xlsx
+│   └── analysis.xlsx
+├── project-2/
+│   ├── dataset.xlsx
+│   └── dashboard.xlsx
+└── project-3/
+    └── analysis.xlsx
+```
 
-1. Creating a working copy to preserve the original data.
-2. Checking for and removing duplicate records.
-3. Replacing abbreviated marital status and gender values with descriptive labels.
-4. Formatting income values appropriately.
-5. Creating age brackets to simplify comparisons between customer age groups.
+The folder names and files above illustrate a suggested structure and can be adapted as projects are added.
 
-## Analysis and Visualisation
+## Objectives
 
-PivotTables and charts were used to explore:
+- Strengthen my practical Excel and data analytics skills.
+- Apply analytical techniques to real-world datasets.
+- Develop clear, informative reports and dashboards.
+- Build a professional portfolio of data analytics projects.
+- Document my continuous learning and development as a Data Analyst.
 
-- Average income by gender and bike purchase status.
-- Bike purchases across customer age brackets.
-- Bike purchases by commute distance.
+## Connect
 
-Interactive slicers were added to allow users to filter the dashboard and explore customer segments.
-
-## Key Findings
-
-*To be completed after reviewing my dashboard.*
-
-- **Income:** Document the differences in average income between bike purchasers and non-purchasers.
-- **Age:** Identify the age bracket with the highest number or proportion of bike purchasers.
-- **Commute distance:** Explain which commute-distance groups show the strongest purchasing patterns.
-
-## Recommendations
-
-*Recommendations will be based on the patterns identified in the completed analysis.*
-
-## Project Files
-
-- `README.md` — Project documentation.
-- Excel workbook — Data preparation, PivotTables, charts, and dashboard.
-
-## Learning Outcomes
-
-Through this project, I practised preparing data for analysis, using PivotTables to investigate customer behaviour, building an interactive dashboard, and communicating findings in a structured format.
-
-## Acknowledgements
-
-The dataset and initial learning approach were inspired by Alex the Analyst's Excel tutorial. This project is documented in my own words as part of my ongoing data analytics learning journey.
+Thank you for visiting my repository. Feel free to explore the projects and follow my progress as I continue developing my data analytics skills.
