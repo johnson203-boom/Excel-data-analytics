@@ -28,6 +28,8 @@ The dataset contains customer information, including:
 
 **Data source:**  [Excel Project Dataset](https://github.com/johnson203-boom/Excel-data-analytics/blob/main/Bike-Sales-Analysis/Excel%20Project%20Dataset.xlsx)
 
+## Dashboard Interaction  [Bike sales Dashboard](https://1drv.ms/x/c/1e77aa03d9646eae/IQAAWFT-eVBjRbwEjpPLdbqsAffmNE4RBEqeeymM9AzyF3E?e=fzc22K)
+
 ## Tools and Techniques
 
 - Microsoft Excel
