@@ -26,7 +26,7 @@ The dataset contains customer information, including:
 - Commute distance and region
 - Age and bike purchase status
 
-**Data source:** [Alex the Analyst — Excel Tutorial Dataset](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
+**Data source:** Excel Project Dataset](https://github.com/johnson203-boom/Excel-data-analytics/blob/main/Bike-Sales-Analysis/Excel%20Project%20Dataset.xlsx)
 
 ## Tools and Techniques
 
